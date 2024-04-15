@@ -1,0 +1,10 @@
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/sequencer/contract/SequencerGrpc.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/tuplespaces/centralized/contract/TupleSpacesGrpc.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/tuplespaces/replicaXuLiskov/contract/TupleSpacesReplicaGrpc.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/tuplespaces/nameserver/contract/NameServerGrpc.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/tuplespaces/replicaTotalOrder/contract/TupleSpacesReplicaTotalOrder.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/tuplespaces/replicaXuLiskov/contract/TupleSpacesReplicaXuLiskov.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/tuplespaces/replicaTotalOrder/contract/TupleSpacesReplicaGrpc.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/sequencer/contract/SequencerOuterClass.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/tuplespaces/nameserver/contract/NameServerOuterClass.java
+/home/andre/A15-TupleSpaces/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/tuplespaces/centralized/contract/TupleSpacesCentralized.java

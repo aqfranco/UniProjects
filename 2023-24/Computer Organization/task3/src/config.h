@@ -1,0 +1,6 @@
+#pragma once
+
+#define INCLUDE_L1_CACHE_INFO
+#define INCLUDE_L2_CACHE_INFO
+#define L1_ASSOCIATIVITY 1
+#define L2_ASSOCIATIVITY 2
