@@ -62,50 +62,6 @@ npm start
 
 * **Access http://localhost:8081**
 
-The [following video](https://youtu.be/D0JABlXCdlo) shows how setup when you install the software in your machine. Requires the software mentioned above.
-
-[![Watch the video](https://img.youtube.com/vi/D0JABlXCdlo/mqdefault.jpg)](https://youtu.be/D0JABlXCdlo)
-
-# Docker Compose Installation
-
-* Install [Docker](https://docs.docker.com/engine/install/) in you machine.
-
-* Copy data/access.log.example to data/access.log
-```
-cp data/access.log.example data/access.log
-```
-
-* Copy data/access.log.example to data/access.log
-```
-cp data/error.log.example data/error.log
-```
-
-* Build HumanaEthica in project top directory, where docker-compose.yml is
-```
-docker-compose build
-```
-
-* Run HumanaEthica
-```
-docker-compose up frontend
-```
-
-* Shutdown HumanaEthica
-```
-docker-compose down
-```
-
-# Development Container
-An easy way to obtain a working development environment is to use the _development container_ provided (see folder `.devcontainer`). This requires [Docker](https://docs.docker.com/get-docker/).
-
-The [following video](https://www.youtube.com/watch?v=ISNCrQ1r-Nw) shows how to setup the dev container using IDE IntelliJ IDEA (Ultimate Edition).
-
-[![How to setup HumanaEthica in IntelliJ using a dev container](https://img.youtube.com/vi/ISNCrQ1r-Nw/mqdefault.jpg)](https://www.youtube.com/embed/ISNCrQ1r-Nw?si=1WeDwCsBdrr5OL5k)
-
-# Contributing
-
-Your contributions are always welcome!
-
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/socialsoftware/humanaethica/blob/master/LICENSE) file for details.
